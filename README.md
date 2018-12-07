@@ -11,6 +11,7 @@
 * [MSVC2013_64](https://www.visualstudio.com/zh-hans/downloads/)
 * [Qt5](https://www.qt.io/download-open-source/#section-2)
 * [OpenCV3](https://github.com/opencv/opencv)
+* [TrackingWithCan](https://github.com/lpj0822/ParkingSpacesMark/releases/tag/v1.0)
 * [C++11](https://en.wikipedia.org/wiki/C%2B%2B11)
 
 ## Discuss
