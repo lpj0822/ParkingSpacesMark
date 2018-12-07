@@ -1,0 +1,8 @@
+#C++
+*.user
+
+#other
+*.doc
+*.docx
+*.vsd
+#document/*.*
